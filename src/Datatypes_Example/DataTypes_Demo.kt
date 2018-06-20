@@ -13,4 +13,11 @@ fun main(args:Array<String>)
     var ar:IntArray= intArrayOf(1,2,3,4,5)
     for(i in 0..ar.size-1)
     print("\nArray Value is : "+ar[i])
+
+    var i=1
+
+    do {
+        print("\nDo While Example :"+i)
+        i++
+    }while (i<=5);
 }
