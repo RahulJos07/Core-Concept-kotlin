@@ -1,4 +1,4 @@
-package ClassObjectExample
+package OopsConceptDemo
 
 class ClassObjDemo{
     private var name:String="Rahul"
